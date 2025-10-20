@@ -302,6 +302,12 @@ img {
 .skills__ux {
   width: 85%;
 }
+.skills__java {
+  width: 80%;
+}
+.skills__kotlin {
+  width: 70%;
+}
 .skills__img {
   border-radius: 0.5rem;
 }
